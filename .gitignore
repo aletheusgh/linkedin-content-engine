@@ -1,0 +1,18 @@
+# User-specific LinkedIn data and generated identity state
+.linkedin-content-engine/
+
+# LinkedIn exports and local secrets
+*.zip
+.env
+.env.*
+
+# Python caches and local test artifacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Editor and operating-system files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

@@ -1,0 +1,4 @@
+interface:
+  display_name: "LinkedIn Content Engine"
+  short_description: "Learn your LinkedIn voice and evidence, then draft credible content."
+  default_prompt: "Use $linkedin-content-engine to update my identity model, research material claims with authoritative sources, and draft cited content in my own voice. Show findings before drafting."
